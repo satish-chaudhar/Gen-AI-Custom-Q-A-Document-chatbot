@@ -1,8 +1,8 @@
-langchain
 langgraph
+groq
+streamlit
+ipykernel
 python-dotenv
-langchain-core
-langchain-community
 langchain-groq
-typing-extensions
 langgraph
+langgraph-cli[inmem]
